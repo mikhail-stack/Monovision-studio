@@ -108,10 +108,9 @@ html {
   text-transform: uppercase;
   color: var(--light-color);
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 820px) {
     font-size: 48px;
   }
-
   @media screen and (max-width: 576px) {
     font-size: 26px;
   }
